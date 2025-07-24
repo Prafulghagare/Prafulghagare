@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/shares/C4Tox9wDhGm9pyQzu9BYf" alt="Finance & Business Analysis Banner" width="400"/>
-</p>
-
 # 👋 Hi, I'm Praful Ghagare  
 🎯 MBA in Finance & Business Analytics  
 💼 Passionate about transforming data into business insights  

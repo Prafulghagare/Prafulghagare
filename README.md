@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/business-analytics-banner-with-flat-icons_1308-52678.jpg?w=996" alt="Finance & Business Analytics" width="400"/>
+  <img src="https://img.freepik.com/free-vector/business-analytics-isometric-composition-with-data-analysis-graphs-icons-businessman-desk-vector-illustration_1284-30727.jpg?t=st=1717942121~exp=1717945721~hmac=09c6edbb65cce28755678b30a97b6f6ce4764a6e00b45dbb91739b96a3fcb9b4&w=996" alt="Finance & Business Analytics" width="400"/>
 </p>
 
 # 👋 Hi, I'm Praful Ghagare  

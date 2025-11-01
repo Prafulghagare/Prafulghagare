@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praful Ghagare  
 🎯 MBA in Finance & Business Analytics  
-💼 Passionate about transforming data into business insights  
+💼 Passionate about transforming data into business insights, ML and AI.
 
 ---
 

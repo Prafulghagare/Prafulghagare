@@ -11,7 +11,7 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48"/></a>
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/rstudio.png" alt="RStudio"/></a>
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="48"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/></a>
 </p>
 
